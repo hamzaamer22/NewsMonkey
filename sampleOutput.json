@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Fark.com"
+            },
+            "author": null,
+            "title": "Stay with me here, but Tesla may have fudged the facts about the Cybertruck's range, durability and race with that Porsche [Obvious]",
+            "description": "Stay with me here, but Tesla may have fudged the facts about the Cybertruck's range, durability and race with that Porsche",
+            "url": "https://www.fark.com/comments/13121694/Stay-with-me-here-but-Tesla-may-have-fudged-facts-about-Cybertrucks-range-durability-race-with-that-Porsche",
+            "urlToImage": "https://usrimg-full.fark.net/m/mK/fark_mKXu6IGDCPlDi34uSEHqbtgOuYs.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1705899600&Signature=fI%2FJAhiynaOhiJD9YSRoFVkKMIQ%3D",
+            "publishedAt": "2024-01-17T21:35:07Z",
+            "content": "one user has found that towing a heavy load severely limits the range of the vehicle, which is expected. In their tests, they used their all-wheel drive Cybertruck to tow a Tesla Model Y on a trailer… [+799 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Adevarul.ro"
+            },
+            "author": "Stefan Both",
+            "title": "Românii merg la schi în Ucraina aflată în război. Cât de mult riscă amatorii de vacanțe în zone de conflict VIDEO",
+            "description": "Aflată la 100 de kilometri de graniţa cu România, Bukovel, staţiunea de schi nr. 1 din Ucraina, a devenit un loc preferat şi pentru români, care continuă să meargă la vecini chiar dacă e o țară în război.",
+            "url": "https://adevarul.ro/stil-de-viata/calatorii/romanii-merg-la-schi-in-ucraina-aflata-in-razboi-2332338.html",
+            "urlToImage": "https://cdn.adh.reperio.news/image-1/1dabd321-1469-4374-94c4-d962d413f84e/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+            "publishedAt": "2024-01-17T21:00:25Z",
+            "content": "Aflat la 100 de kilometri de grania cu România, Bukovel, staiunea de schi nr. 1 din Ucraina, a devenit un loc preferat i pentru români, care continu s mearg la vecini chiar dac e o ar în rzboi.\r\nCea … [+5786 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Noticiasautomotivas.com.br"
+            },
+            "author": "Ricardo de Oliveira",
+            "title": "Veja como um SUV movido a hidrogênio garante sobrevida ao motor V8",
+            "description": "Os motores grandes estão fadados à extinção com a eletrificação galopante que toma conta de alguns mercados, porém, algumas soluções estão querendo garantir",
+            "url": "https://www.noticiasautomotivas.com.br/veja-como-um-suv-movido-a-hidrogenio-garante-sobrevida-ao-motor-v8/",
+            "urlToImage": "https://images.noticiasautomotivas.com.br/img/f/pininfarina-namx-huv-5.jpg",
+            "publishedAt": "2024-01-17T20:30:11Z",
+            "content": "pininfarina namx huv 5\r\nOs motores grandes estão fadados à extinção com a eletrificação galopante que toma conta de alguns mercados, porém, algumas soluções estão querendo garantir que propulsores co… [+1908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        }
+    ]
+}
